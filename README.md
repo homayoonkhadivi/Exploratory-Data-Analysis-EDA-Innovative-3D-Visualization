@@ -14,10 +14,15 @@ In this Notebook, I want to perforom some data analytics, data visualizations, E
    *We can see the following items to use easily for the data analysis phase*
    *The items included of:*
    -) Overview
+   
    -) Variables
+   
    -) Interactions
+   
    -) Correlations
+   
    -) Missing Values
+   
    -) Sample
    
 ![22](https://user-images.githubusercontent.com/57557590/105410113-b3dcf300-5c46-11eb-8daf-fe0ef7bd1f56.PNG)
