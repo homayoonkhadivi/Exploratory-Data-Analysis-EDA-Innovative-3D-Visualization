@@ -45,5 +45,23 @@ The system is built around quickly visualizing target values and comparing datas
 
 ![88](https://user-images.githubusercontent.com/57557590/105411488-b3455c00-5c48-11eb-9765-6c07c78cdfb2.PNG)
 
+3) # Pandas GUI Package
+# Features
+-) View DataFrames and Series (with MultiIndex support)
 
+-) Interactive plotting
+
+-) Filtering
+
+-) Statistics summary
+
+-)Data editing and copy / paste
+
+-) Import CSV files with drag & drop
+
+-) Search toolbar
+
+For more information check out this link:(https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d)
+
+![10](https://user-images.githubusercontent.com/57557590/105414118-50ee5a80-5c4c-11eb-8115-b7c548c9d96e.PNG)
 
