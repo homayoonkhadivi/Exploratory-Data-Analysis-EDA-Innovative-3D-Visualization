@@ -37,4 +37,13 @@ In this Notebook, I want to perforom some data analytics, data visualizations, E
 
 
 2) # Sweetviz Package
+Sweetviz is an open source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code. Output is a fully self-contained HTML application.
+
+The system is built around quickly visualizing target values and comparing datasets. Its goal is to help quick analysis of target characteristics, training vs testing data, and other such data characterization tasks. Find more infomration about this innovative library here:(https://towardsdatascience.com/sweetviz-automated-eda-in-python-a97e4cabacde)
+
+![77](https://user-images.githubusercontent.com/57557590/105411480-b2142f00-5c48-11eb-8402-f496d6193b8d.PNG)
+
+![88](https://user-images.githubusercontent.com/57557590/105411488-b3455c00-5c48-11eb-9765-6c07c78cdfb2.PNG)
+
+
 
