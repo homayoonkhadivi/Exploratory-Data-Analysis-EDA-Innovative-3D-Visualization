@@ -65,3 +65,18 @@ For more information check out this link:(https://towardsdatascience.com/pandasg
 
 ![10](https://user-images.githubusercontent.com/57557590/105414118-50ee5a80-5c4c-11eb-8115-b7c548c9d96e.PNG)
 
+![eda1](https://user-images.githubusercontent.com/57557590/105758579-a7b5a600-5f64-11eb-9a13-03328594b4f7.PNG)
+
+![eda2](https://user-images.githubusercontent.com/57557590/105758596-ab492d00-5f64-11eb-8d89-ea877d91965a.PNG)
+
+# Obeservations:
+1) Manhattan neighbourhood group has highest number of listings in whole New York area.
+
+2) Number of hosts ownning the listings are highest in Manhattan followed by Brooklyn
+
+![eda3](https://user-images.githubusercontent.com/57557590/105758936-15fa6880-5f65-11eb-8c7c-d14a2c22524b.PNG)
+
+![eda4](https://user-images.githubusercontent.com/57557590/105758941-172b9580-5f65-11eb-9387-590b8c0338d5.PNG)
+
+
+
