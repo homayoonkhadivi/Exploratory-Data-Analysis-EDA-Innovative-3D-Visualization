@@ -80,5 +80,5 @@ For more information check out this link:(https://towardsdatascience.com/pandasg
 
 ![eda5](https://user-images.githubusercontent.com/57557590/105758944-185cc280-5f65-11eb-9861-b74e25e058f7.PNG)
 
-
+This notebook has already gianed Silver Medal in Kaggle 
 
